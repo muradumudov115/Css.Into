@@ -1,0 +1,53 @@
+/* p {
+    background-color: lightblue;
+  } */
+
+
+ /* body{
+     background-color: bisque;
+    background-image: url("../code.jpg");
+  } */
+
+
+  /* p{  background-image: url("../backraound.png");
+    background-repeat: no-repeat;
+   margin-right: 200px;
+    background-attachment: scroll; 
+  } */
+
+
+ /* body{background-image: url("../code.jpg");
+     height: 300px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    } */
+    /* body{
+    border: 2px dashed black;
+    height: 600px;
+    background-image:url(../code.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom center;
+    } */
+
+
+    /* p:active, h1:active, a:active{
+        background-color: burlywood;
+    } */
+
+    /* input:optional {
+        background-color: yellow;
+      } */
+
+      
+      /* input[type=text]:enabled {
+        background: #ffff00;
+      }
+      
+      input[type=text]:disabled {
+        background: #dddddd;
+      } */
+
+      a:hover {
+        background-color: yellow;
+      }
